@@ -1,0 +1,85 @@
+BACKEND
+Super user:		hellbrass
+Senha:			120323@An120323@An
+Email:			hellbrassantonio@gmail.com
+
+
+BANCO DE DADOS LOCAL (hellbrass4x)
+root
+sem senha
+
+
+------------------------------------------------------
+NÃO FUNCIONAL  NÃO FUNCIONAL
+NÃO FUNCIONAL
+NÃO FUNCIONAL
+NÃO FUNCIONAL
+Drive
+hellbrassantonio@gmail.com
+120323@An
+TENTAR RECUPERAR A SENHA E DEPOIS COLOCAR AS FOTOS DO PRINT QUE ESTÃO NA PASTA PARA O DRIVE
+76
+
+----------------------------------------------------------------
+UOL HOST
+https://painel.uol.com.br/
+hellbrassantonio@gmail.com
+120323@An
+antoniohellbrass@gmail.com
+
+------------------------------------------------------------
+
+Acesso FTP/SSH
+Usuário: hellbras18
+Senha: 120323@An
+
+
+FTP:
+ftp.hellbrass.com.br
+ftp.uhserver.com
+
+
+SSH
+ssh.hellbrass.com.br
+ssh.uhserver.com
+
+REGISTRO.BR
+ANNSO103 (loga mas não tem informação de dominio)
+ANNSO86 (informações sobre dominios)
+120323@An
+ hellbrassantonio@gmail.com
+ Antonio Neri de Souza
+ Rua Santo Rizzo, 2233,
+ 13152-336 - Cosmópolis - SP
+ (19) 98175-7871 []
+
+
+--------------------------------------------------
+USAR ESTE E-MAIL PARA ACESSO AO GMAIL E O MESMO NO SITE DA UOL
+Gmail senha alterada dia 06/09/2023
+antoniohellbrass@gmail.com
+120323@An
+(19) 98175-7871
+
+
+TEMPLATES
+
+https://www.joomlart.com
+hellbrassantonio@gmail.com
+hellbrassantonio
+120323@An
+
+    Gavick.com
+    JoomlaBamboo.com
+    JomSocial.com
+    iJoomla.com
+    dthdevelopment.com
+
+
+CPF
+21594465649
+
+GITHUB
+hellbrasscombr
+antoniohellbrass@gmail.com
+120323@An
