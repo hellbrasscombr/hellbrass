@@ -67,10 +67,12 @@ body {
 
   /* Style the header with a grey background and some padding */
 .header {
+  display:grid;
   overflow: hidden;
-  background-color: #F44D20;
-  padding: 20px 10px;
-  border-radius: 20px;
+  /*background-color: #F44D20;*/
+  background-color: white;
+  width: auto;
+  height: auto;
 }
 
 /* Style the header links */
@@ -105,11 +107,6 @@ body {
   color: white;
 }
 
-/* Float the link section to the right */
-.header-right {
-  float: right;
-}
-
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
 @media screen and (max-width: 500px) {
   .header a {
@@ -119,6 +116,7 @@ body {
   }
   .header-right {
     float: none;
+    float: right;
   }
 }
 
@@ -136,4 +134,9 @@ div img{
   float:left;
   width: 100%;
   height: 100%;
+}
+.logo{
+  float:left;
+  width: auto;
+  height: auto;
 }
