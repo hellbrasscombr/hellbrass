@@ -17,7 +17,7 @@ jobs:
             server: ${{ secrets.ftp_host }}
             username: ${{ secrets.ftp_user }}
             password: ${{ secrets.ftp_password }}
-            server-dir: /hellbrass.com.br/
+            server-dir: /hellbrass.com.br/web/
 
   #https://github.com/marketplace/actions/ftp-deploy
   #https://www.youtube.com/watch?v=3cLbh-k2qKk
